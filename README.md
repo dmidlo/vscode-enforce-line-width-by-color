@@ -1,0 +1,1 @@
+# vscode-enforce-line-width-by-color
